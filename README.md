@@ -10,6 +10,8 @@ This challenge is pretty straightforward. Build a minimal blockchain to learn th
 
 3 - Provide some kind of block explorer to see the results of your creation.
 
+ * Whatever language you choose. Recommended languages are Go, C/C++, Java, Python or Rust
+
 ## Why would you take up this challenge?
 
 Because everyone and their dog has been becoming a "blockchain expert" and you want to prove how easy it is/how hard it is!
